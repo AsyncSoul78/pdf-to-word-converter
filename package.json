@@ -1,0 +1,14 @@
+{
+  "name": "pdf-to-word-converter",
+  "version": "1.0.0",
+  "description": "Helper scripts for the PDF to Word converter: check a PDF before converting, count what is inside a DOCX",
+  "homepage": "https://toolster.net/pdf_to_word",
+  "license": "MIT",
+  "private": true,
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "check": "node scripts/pdf-check.js",
+    "stats": "node scripts/docx-stats.js",
+    "test": "node --test test/check.test.js"
+  }
+}
