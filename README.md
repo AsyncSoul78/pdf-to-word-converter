@@ -31,10 +31,6 @@ Turn a PDF into a Word document you can actually edit. Paragraphs, headings, lis
 - Updating an old form or a price list
 - Getting text out of a scanned letter
 
-## Video
-
-- [PDF to Word converter, short walkthrough](https://youtu.be/Pn2tHr2Sotg)
-
 ## Helper scripts
 
 Small Node.js scripts, no dependencies (Node 22+):
