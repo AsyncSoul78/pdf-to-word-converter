@@ -34,6 +34,7 @@ Turn a PDF into a Word document you can actually edit. Paragraphs, headings, lis
 ## Video
 
 - [PDF to Word converter, short walkthrough](https://youtu.be/-fdbs6ZMVHw)
+- [Spanish walkthrough: convertir un PDF a Word](https://youtu.be/LfmfI5RSi3M)
 
 ## Helper scripts
 
